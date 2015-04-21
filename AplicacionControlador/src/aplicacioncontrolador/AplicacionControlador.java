@@ -16,8 +16,6 @@ public class AplicacionControlador {
      */
     public static void main(String[] args) {
         System.out.println("Erika Lozada");
-        System.out.println("Modificado online");
-        System.out.println("Modificado online");
     }
     
 }
