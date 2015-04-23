@@ -19,6 +19,9 @@ public class AplicacionControlador {
         System.out.println("Erika");
           System.out.println("Nuevo");
            System.out.println("Nuevo2");
+            System.out.println("Erick Carrera");
+           System.out.println("Hola mundo");
+           System.out.println(":D / (/_-)");
     }
     
 }
