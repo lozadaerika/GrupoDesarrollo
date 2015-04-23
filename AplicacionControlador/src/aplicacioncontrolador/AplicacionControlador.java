@@ -18,6 +18,7 @@ public class AplicacionControlador {
         System.out.println("Erika Lozada");
         System.out.println("Erika");
           System.out.println("Nuevo");
+           System.out.println("Nuevo2");
     }
     
 }
