@@ -22,6 +22,7 @@ public class AplicacionControlador {
             System.out.println("Erick Carrera");
            System.out.println("Hola mundo");
            System.out.println(":D / (/_-)");
+           System.out.println("este es un cambio hecho desde netbeans");
     }
     
 }
