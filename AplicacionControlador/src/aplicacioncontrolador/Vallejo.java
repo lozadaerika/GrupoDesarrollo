@@ -10,5 +10,11 @@ package aplicacioncontrolador;
  * @author Andy
  */
 public class Vallejo {
+    
+    public static void main (String args[]){
+        System.out.println("PAME ♥");
+    }
     //hola sss
+    //PAME
+    
 }
