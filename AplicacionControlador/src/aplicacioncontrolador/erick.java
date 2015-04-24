@@ -11,7 +11,7 @@ package aplicacioncontrolador;
  */
 public class erick {
     public static void main(String[] args) {
-       System.out.println("Soy Erika ");
+  System.out.println("Soy Erika ");
 
     
     }
