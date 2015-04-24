@@ -7,12 +7,11 @@ package aplicacioncontrolador;
 
 /**
  *
- * @author Erika
+ * @author PC14
  */
-public class NewClass {
+public class u {
     public static void main(String[] args) {
-        System.out.println("Crreado desde musicplay");
-     System.out.println("probando 1 2 3 !!!");
-          System.out.println("probando 1 2 3 !!!");
+        System.out.println("Creeeee ");
+    
     }
 }

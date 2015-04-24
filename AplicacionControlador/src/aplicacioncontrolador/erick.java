@@ -7,12 +7,12 @@ package aplicacioncontrolador;
 
 /**
  *
- * @author Erika
+ * @author PC13
  */
-public class NewClass {
+public class erick {
     public static void main(String[] args) {
-        System.out.println("Crreado desde musicplay");
-     System.out.println("probando 1 2 3 !!!");
-          System.out.println("probando 1 2 3 !!!");
+        System.out.println("prueba ");
+         System.out.println("prueba  Erika ");
+    
     }
 }
