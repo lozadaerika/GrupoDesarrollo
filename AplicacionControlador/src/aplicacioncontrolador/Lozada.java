@@ -10,5 +10,9 @@ package aplicacioncontrolador;
  * @author PC14
  */
 public class Lozada {
+     public static void main(String[] args) {
+        System.out.println("prueba ");
+         System.out.println("prueba  erick estubo aqui ");
     
+    }
 }
